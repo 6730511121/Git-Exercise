@@ -10,7 +10,7 @@ b) Copy one of the Quote.* files into the Picture directory. Choose a format tha
 
 c) Update this README.md file:
 
-     Section 1: Enter your name and email address.
+     Section 1: Supphawit Kiatkiri 6730511121@student.chula.ac.th
 
      Section 2: Embed the quote image from the Picture directory.
 
@@ -24,8 +24,8 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: *** Supphawit Kiatkirti *** 
+Email: *** 6730511121@student.chula.ac.th *** 
 
 🖼️ 2. Picture
 
@@ -37,6 +37,6 @@ Email: *** Your email address ***
 
 💬 4. Quote
 
-*** Read and Place TEXT from Quote.* here  ***
+*** Trust The Process ***
 
 🎬 5. Video Lecture
