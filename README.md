@@ -13,10 +13,11 @@ c) Update this README.md file:
      Section 1: Supphawit Kiatkiri 6730511121@student.chula.ac.th
 
      Section 2: Embed the quote image from the Picture directory.
-
+![Quote Image](Picture/Quote.png)
      Section 3: Embed the GIF animation from the Animation directory.
-
+![Git Animation](Animation/GitGif.gif)
      Section 4: Type the quote as plain text.
+Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked. worked.
 
      Commit your changes and submit your repository URL.
 
@@ -29,14 +30,15 @@ Email: *** 6730511121@student.chula.ac.th ***
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![alt text](Quote.jpg)
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![alt text](GITGIF.gif)
 
 💬 4. Quote
 
-*** Trust The Process ***
+Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked.
 
 🎬 5. Video Lecture
+
