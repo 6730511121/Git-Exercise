@@ -10,14 +10,13 @@ b) Copy one of the Quote.* files into the Picture directory. Choose a format tha
 
 c) Update this README.md file:
 
-     Section 1: Supphawit Kiatkiri 6730511121@student.chula.ac.th
+     Section 1: Enter your name and email address.
 
      Section 2: Embed the quote image from the Picture directory.
-![Quote Image](Picture/Quote.png)
+
      Section 3: Embed the GIF animation from the Animation directory.
-![Git Animation](Animation/GitGif.gif)
+
      Section 4: Type the quote as plain text.
-Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked. worked.
 
      Commit your changes and submit your repository URL.
 
@@ -25,20 +24,19 @@ Revision control gives us the confidence to move forward, because we can always 
 
 👤 1. Student Information
 
-Name: *** Supphawit Kiatkirti *** 
-Email: *** 6730511121@student.chula.ac.th *** 
+Name: Supphawit Kiatkirti  
+Email: 6730511121@student.chula.ac.th  
 
 🖼️ 2. Picture
 
-![alt text](Quote.jpg)
+![Quote Image](Picture/Quote.png)
 
 🎞️ 3. Animation
 
-![alt text](GITGIF.gif)
+![Git Animation](Animation/GITGIF.gif)
 
 💬 4. Quote
 
 Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked.
 
 🎬 5. Video Lecture
-
